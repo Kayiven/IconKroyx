@@ -1,0 +1,27 @@
+{
+  "iconDefinitions": {
+    "_file_base": { "iconPath": "./_files/default_file.svg" },
+    "_folder_base": { "iconPath": "./_folders/default_folder_closed.svg" },
+    "_folder_base_open": { "iconPath": "./_folders/default_folder_open.svg" }
+  },
+  "file": "_file_base",
+  "folder": "_folder_base",
+  "folderExpanded": "_folder_base_open",
+  "fileNames": {
+    ".env": "_file_base" 
+  },
+  "fileExtensions": {
+    "env": "_file_base",
+    "md": "_file_base",
+    "txt": "_file_base",
+    "json": "_file_base",
+    "yml": "_file_base",
+    "js": "_file_base",
+    "html": "_file_base",
+    "css": "_file_base",
+    "php": "_file_base" 
+  },
+  "folderNames": {},
+  "folderNamesExpanded": {},
+  "hidesExplorerArrows": false
+}

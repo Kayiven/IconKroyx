@@ -1,0 +1,28 @@
+{
+  "name": "iconkroyx",
+  "displayName": "New user interface icons",
+  "version": "2.1.0",
+  "publisher": "local-dev",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "iconkroyx",
+        "label": "iconkroyx",
+        "path": "./icon-config.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "keywords": [
+    "file-icons",
+    "folder-icons"
+  ],
+  "author": {
+    "name": "Kaynx"
+  }
+}
